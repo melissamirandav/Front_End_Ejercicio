@@ -1,3 +1,26 @@
-p{
-    color:wheat;
+body{
+    font-family: 'Roboto', sans-serif;
 }
+
+/* Section Productos Destacados */
+.sec-productos{
+    text-align: center;
+}
+#tit-productos{
+    color: #3c2313;
+    font-weight: bold;
+    font-size: 50px;
+}
+.p-titulo-produ{
+    color: #3c2313;
+    font-size: 20px;
+    font-weight: bold;
+}
+.text-precio{
+    color: #f0a83e;
+}
+#tit-produc{
+    color: #666666;
+    font-size: 30px;
+}
+/* Fin Section Productos Destacados */
